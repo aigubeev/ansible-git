@@ -1,0 +1,4 @@
+ inside:
+    hosts:
+      localhost:
+        ansible_connection: docker
